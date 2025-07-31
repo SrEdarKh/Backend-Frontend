@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+npm-debug.log*
+.env
+
+# Vite build output (frontend)
+vite-project/dist/
+vite-project/node_modules/
+
+# Backend
+ORM/node_modules/
+
+# Editor
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Tailwind
+*.css.map
